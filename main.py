@@ -25,3 +25,6 @@ print(total_orders)
 # Receive input (your action)
 # Process according to instructions (the program logic)
 # Produce output (the result)
+
+message = "Hello, Python!"
+print(message)
